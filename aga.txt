@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- $RCSfile: 000000000000-directory~.xml,v $  $Revision: 1.3 $ -->
+<directory>
+        <item_list>
+                <item>
+                        <ln> 1002       Shelly </ln>
+                        <fn> Shelly </fn>
+                        <ct> 1002 </ct>
+                </item>
+                <item>
+                        <ln> 1003       Chris </ln>
+                        <fn> Chris </fn>
+                        <ct> 1003 </ct>
+                </item>
+                <item>
+                        <ln> 1004       Extra </ln>
+                        <fn> Extra </fn>
+                        <ct> 1004 </ct>
+                </item>
+                <item>
+                        <ln> 1005       Ray </ln>
+                        <fn> Ray </fn>
+                        <ct> 1005 </ct>
+                </item>
+                <item>
+                        <ln> 1006       Kitchen </ln>
+                        <fn> Kitchen </fn>
+                        <ct> 1006 </ct>
+                </item>
+                <item>
+                        <ln> 1007       Scott </ln>
+                        <fn> Scott </fn>
+                        <ct> 1007 </ct>
+                </item>
+                <item>
+                        <ln> 1008       Heath </ln>
+                        <fn> Heath </fn>
+                        <ct> 1008 </ct>
+                </item>
+                <item>
+                        <ln> 1009       Andy </ln>
+                        <fn> Andy </fn>
+                        <ct> 1009 </ct>
+                </item>
+                <item>
+                        <ln> 1010       John </ln>
+                        <fn> John </fn>
+                        <ct> 1010 </ct>
+                </item>
+                </item_list>
+</directory>
