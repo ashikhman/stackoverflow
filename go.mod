@@ -1,4 +1,4 @@
-module gopkg.in/ashikhman/stackoverflow.v1
+module gopkg.in/ashikhman/stackoverflow
 
 go 1.12
 
